@@ -21,7 +21,7 @@
 title: Juliusz's Blog
 email: tolkojuliusz@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "tolko.org" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  Houlius
 
 # Build settings
